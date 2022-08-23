@@ -1,0 +1,26 @@
+body {
+    background-color:blue;
+    
+}
+div#bloco {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    color:black;
+    font-family:arial;
+    
+   
+}
+header {
+    color:white;
+}
+section {
+    background-color:white;
+    width:30%;
+    padding:15px;
+    border-radius:10px;
+}
+footer {
+    color:white;
+}
