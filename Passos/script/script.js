@@ -24,7 +24,7 @@ function contar() {
         }   //c -= p é a simplificação de c = c - p
             else {
                 for(let c = i; c>= f; c-=p) {
-                    res.innerHTML += `${c}`
+                    res.innerHTML += `${c} \u{1f3c3}`
                 }
     
         }
