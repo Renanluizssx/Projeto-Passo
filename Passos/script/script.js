@@ -30,7 +30,7 @@ function contar() {
         }
         
         
-        }
+    }
         // numero + string automaticamente ele concatena
         // c+=p simplificando para c = c + p
         // \u permite colocar emojis pelo unicode
